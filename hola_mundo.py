@@ -1,7 +1,5 @@
 import os
 
 def main():
-
-print(f"¡Hola,desde GitHub!")
-
-main()
+    print("¡Hola,desde GitHub!")
+    main()
