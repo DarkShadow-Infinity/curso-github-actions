@@ -6,6 +6,6 @@ nombre = os.getenv("USERNAME")
 
 print(f"¡Hola, {nombre} desde GitHub!")
 
-if_name main_":
+if _name_  == "_main_":
 
 main()
