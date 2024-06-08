@@ -2,9 +2,7 @@ import os
 
 def main():
 
-nombre = os.getenv("USERNAME")
-
-print(f"¡Hola, {nombre} desde GitHub!")
+print(f"¡Hola,desde GitHub!")
 
 if _name_  == "_main_":
 
